@@ -5,7 +5,7 @@ global.namaowner = "𝐊𝐚𝐲𝐳𝐞𝐧𝐎𝐅𝐅𝐂"
 global.footer_text = "© 𝐤𝐚𝐲𝐳𝐞𝐎𝐅𝐅𝐂" + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['62838388876774']
+global.owner = ['62838388876777']
 global.sessionName = 'session'
 global.prefa = ['-_-']
 global.caption_pay = `Qris All Pay
@@ -19,7 +19,7 @@ Mau ganti payment? ketik .setpay
 module.exports.helpMenu = (pushname) =>{
   return `Halo ${pushname}
 
-*�? FITUR BOT �?*
+*�? FITUR BOT �?*
 
 \`\`\`» /owner
 » /addsewa

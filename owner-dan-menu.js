@@ -1,8 +1,8 @@
 const fs = require('fs')
 
-global.namabot = "𝐊-𝐌𝐃"
-global.namaowner = "𝐊𝐚𝐲𝐳𝐞𝐧𝐎𝐅𝐅𝐂"
-global.footer_text = "© 𝐤𝐚𝐲𝐳𝐞𝐎𝐅𝐅𝐂" + namabot
+global.namabot = "𝙊𝙓𝘿"
+global.namaowner = "𝙁𝙄𝙆𝙊𝙓𝘿"
+global.footer_text = "© 𝙊𝙓𝘿" + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
 global.owner = ['62838388876778']
